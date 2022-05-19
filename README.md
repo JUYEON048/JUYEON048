@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JUYEON
 - 👀 I’m interested in Autonomous Vehicle and Artificial Intelligence
-- 🌱 I’m currently learning perception and Big-data process using AI in Autonomous Vehicle 
+- 🌱 I’m studying perception and Big-data process using AI in Autonomous Vehicle 
 - 💞️ "carpe diem"
 
 <!---
